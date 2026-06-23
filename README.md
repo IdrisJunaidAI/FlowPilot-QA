@@ -1,2 +1,3 @@
 # FlowPilot-QA
+FlowPilot QA AI should not be built as a generic project management tool. It should be built as a regulated quality execution platform for sterile compounding pharmacies, 503B outsourcing facilities, pharmaceutical manufacturers, biotech companies, cell and gene therapy manufacturers, hospital pharmacies, and quality consulting teams.
 FlowPilot QA AI is conceived as a regulated quality execution and intelligence platform designed to help sterile compounding pharmacies, 503B outsourcing facilities, pharmaceutical manufacturers, biotech industries and gene therapy manufacturers, and quality consulting teams control their operational quality systems in one intelligent workspace.
